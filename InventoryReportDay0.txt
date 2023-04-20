@@ -1,0 +1,15 @@
+book; lord of the rings; J.R.R Tolkien; fantasy; 39.99; 7; 543
+book; dune; Frank Herbert; science fiction; 10.99; 2; 488
+book; shibumi; Trevanian; mystery thriller; 18.0; 1; 403
+book; it; Stephen King; horror; 17.59; 5; 170
+book; the dark tower 1: the gunslinger; Stephen King; fantasy; 16.99; 2; 109
+cd; cypress grove; glaive; hyperpop; 13.99; 2; 7
+cd; dead; blackbear; r&b; 12.01; 3; 832
+cd; donna; softwilly; rap; 13.29; 5; 908
+cd; twelve carat tootheache; post malone; alternative rap; 11.49; 4; 189
+cd; then i'll be happy; glaive, ericdoa; hyperpop; 11.99; 1; 483
+dvd; dark knight rises; science fiction; 5.39; 12; 904
+dvd; avengers; science fiction; 7.99; 17; 104
+dvd; lord of the rings: return of the king; fantasy; 6.39; 5; 123
+dvd; lord of the rings: the two towers; fantasy; 6.39; 1; 403
+dvd; lord of the rings: the fellowship of the ring; fantasy; 6.39; 4; 746

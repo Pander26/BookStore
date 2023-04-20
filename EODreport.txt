@@ -1,0 +1,9 @@
+Book Sales:
+
+Cd Sales: 
+
+Dvd Sales: 
+
+total new users registered today: 0
+total itmes sold today: 0
+total sales today: 0.0
